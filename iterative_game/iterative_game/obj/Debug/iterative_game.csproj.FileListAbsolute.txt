@@ -1,0 +1,7 @@
+C:\Users\alibs\source\repos\iterative_game\iterative_game\obj\Debug\iterative_game.csprojAssemblyReference.cache
+C:\Users\alibs\source\repos\iterative_game\iterative_game\obj\Debug\iterative_game.csproj.CoreCompileInputs.cache
+C:\Users\alibs\source\repos\iterative_game\iterative_game\bin\Debug\iterative_game.exe.config
+C:\Users\alibs\source\repos\iterative_game\iterative_game\bin\Debug\iterative_game.exe
+C:\Users\alibs\source\repos\iterative_game\iterative_game\bin\Debug\iterative_game.pdb
+C:\Users\alibs\source\repos\iterative_game\iterative_game\obj\Debug\iterative_game.exe
+C:\Users\alibs\source\repos\iterative_game\iterative_game\obj\Debug\iterative_game.pdb
